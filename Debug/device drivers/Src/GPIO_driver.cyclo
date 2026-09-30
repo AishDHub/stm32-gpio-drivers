@@ -1,0 +1,8 @@
+../device drivers/Src/GPIO_driver.c:4:6:GPIO_Init	4
+../device drivers/Src/GPIO_driver.c:35:6:GPIO_Deinit	4
+../device drivers/Src/GPIO_driver.c:64:6:GPIO_TogglePin	1
+../device drivers/Src/GPIO_driver.c:72:6:GPIO_SetPin	1
+../device drivers/Src/GPIO_driver.c:80:9:GPIO_ReadPin	1
+../device drivers/Src/GPIO_driver.c:88:6:GPIO_Write_Port	1
+../device drivers/Src/GPIO_driver.c:95:9:GPIO_Read_Port	1
+../device drivers/Src/GPIO_driver.c:102:6:GPIO_Lock	1

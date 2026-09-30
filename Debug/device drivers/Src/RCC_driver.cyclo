@@ -1,0 +1,2 @@
+../device drivers/Src/RCC_driver.c:4:6:RCC_Enable_GPIO	6
+../device drivers/Src/RCC_driver.c:29:6:RCC_Disable_GPIO	6
